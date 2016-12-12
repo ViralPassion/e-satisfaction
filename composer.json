@@ -1,0 +1,10 @@
+{
+    "name": "ViralPassion/e-satisfaction",
+    "version": "master",
+    "type": "wordpress-plugin",
+    "source": {
+        "url": "git@github.com:ViralPassion/e-satisfaction",
+        "type": "git",
+        "reference": "master"
+    }
+}
