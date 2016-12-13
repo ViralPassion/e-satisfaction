@@ -1,5 +1,4 @@
 # E-Satisfaction integration with WooCommerce
-## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
 This is a simple plugin made by ViralPassion that allows you one click install of e-satisfaction.
 
@@ -15,3 +14,5 @@ By installing this plugin you have:
   - The automated email after every complete order
 
 This plugin is developed by viralpassion and is not the official e-satisfaction plugin
+
+## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
