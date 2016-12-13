@@ -1,4 +1,5 @@
 # E-Satisfaction integration with WooCommerce
+## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
 This is a simple plugin made by ViralPassion that allows you one click install of e-satisfaction.
 
