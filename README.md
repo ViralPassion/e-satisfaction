@@ -1,4 +1,4 @@
-# E-Satisfaction indergration with WooCommerce
+# E-Satisfaction integration with WooCommerce
 
 This is a simple plugin made by ViralPassion that allows you one click install of e-satisfaction.
 
